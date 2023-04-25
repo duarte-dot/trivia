@@ -52,7 +52,7 @@ Você também pode acessar através do <a target="_blank" href="https://group-6-
   <li>Criar dispatchers no Redux em aplicações React;</li>
   <li>Conectar Redux aos componentes React;</li>
   <li>Criar actions assíncronas na sua aplicação React que faz uso de Redux.</li>
-  <li>Desenvolver uma boa cobertura de testes</li>
+  <li>Desenvolver uma boa cobertura de testes.</li>
 </ul>
 
 ## Conclusão
