@@ -41,7 +41,7 @@ No projeto Trivia foi desenvolvido em equipe um jogo de perguntas e respostas ba
   <li>Acesse a aplicação no seu navegador em: http://localhost:3000</li>
 </ol>
 
-Você também pode acessar através do <a target="_blank" href="https://group-6-trivia-project.surge.sh/">link de deploy.</a>
+Você também pode acessar através do <a target="_blank" href="https://group-6-trivia-project.surge.sh/">link de deploy</a>.
 
 ## Principais aprendizados
 
